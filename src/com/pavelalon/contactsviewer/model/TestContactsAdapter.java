@@ -3,8 +3,8 @@ package com.pavelalon.contactsviewer.model;
 import java.util.List;
 import java.util.zip.Inflater;
 
+import com.pavelalon.contactsviewer.sms.ContactEntity;
 import com.pavelalon.contactsviewer.view.R;
-import com.pavelalon.contactsviewer.view.ContactEntity;
 
 import android.content.Context;
 import android.text.Layout;

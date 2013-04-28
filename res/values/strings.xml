@@ -9,5 +9,7 @@
     <string name="name_">"Name: "</string>
     <string name="id_">"ID: "</string>
     <string name="phone_number">Phone Number:</string>
+    <string name="title_activity_test_to_alon">TestToAlonActivity</string>
+    <string name="title_activity_sms">SMSActivity</string>
 
 </resources>

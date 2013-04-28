@@ -1,4 +1,4 @@
-package com.pavelalon.contactsviewer.view;
+package com.pavelalon.contactsviewer.sms;
 
 public class ContactEntity {
 	
